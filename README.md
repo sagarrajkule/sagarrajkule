@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Python, TypeScript**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sagarrajkule/recent-activity/articles/](https://www.linkedin.com/in/sagarrajkule/recent-activity/articles/)
+- 📝 I regularly write articles on [Linkedin.com](https://www.linkedin.com/in/sagarrajkule/recent-activity/articles/)
 
 - 💬 Ask me about **Node.Js, JavaScript, ReactJS, Redux, TypeScript, ES6, Next.js, SQL, MongoDB, AWS, Git, Redis, Python**
 
