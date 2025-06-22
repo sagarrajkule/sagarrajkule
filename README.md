@@ -33,7 +33,7 @@
 </div>
 
 <div style="min-width: 33%;">
-  <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarrajkule&show_icons=true&locale=en" alt="sagarrajkule"  /></p>
+  <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarrajkule" alt="sagarrajkule"  /></p>
 </div>
 
 <div style="min-width: 33%;">
