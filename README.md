@@ -26,7 +26,7 @@
 
 <div style="min-width: 100%;float: left">
   <p ><a href="https://www.buymeacoffee.com/sagarrajkule"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sagarrajkule" /></a></p><br><br><br>  
-</div>
+</div> 
 
 <div style="min-width: 33%;">
   <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarrajkule&show_icons=true&locale=en&layout=compact" alt="sagarrajkule" /></p>
